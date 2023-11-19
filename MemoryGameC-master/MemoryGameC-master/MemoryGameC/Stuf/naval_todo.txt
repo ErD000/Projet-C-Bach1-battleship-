@@ -1,0 +1,11 @@
+Fix the issues in README
+
+Erwin:
+
+- generer l'emplacement des bateaux de l'ia sur la carte (stv je t'explique en voc quand tu le fera)
+- gerer comment l'ia attaque le joueur avec un algo semi-aleatoire
+
+
+
+PSR:
+Nothing...
